@@ -1,49 +1,54 @@
-# Devloom
+# Turkmen OSS
 
-**Open-source software, written by people.**
+**Open-source software for Turkmenistan, written by people.**
 
-Devloom is an independent open-source organization building Go packages, libraries, and developer tools.
+Turkmen OSS is an independent open-source organization building Go packages, libraries, developer tools, and infrastructure for the Turkmen ecosystem.
 
-We care about readable code, small APIs, minimal dependencies, and software that developers can understand and maintain.
+We focus on useful, reliable, and maintainable software with clear APIs, minimal dependencies, and code that developers can understand.
 
 ## Human-written software
 
-Devloom projects are developed and maintained by people.
+Our projects are developed and maintained by people.
 
-We don't use generative AI to produce source code, documentation, issues, pull requests, or project content.
+We don't use generative AI to produce source code, documentation, issues, pull requests, or other project content.
 
-Our goal is simple: understand the problems we solve, understand the code we ship, and take responsibility for every change.
+Every change should be understood by the person who creates it. We believe maintainers should be able to explain their code, reason about its behavior, and take responsibility for what they ship.
 
 ## What we build
 
 - Go packages and libraries
-- Developer tools
-- Networking and web utilities
-- Tools for the Turkmen ecosystem 
-- Small, focused open-source projects
+- Developer tools and CLI utilities
+- Networking and web tools
+- Geographic and regional utilities
+- Turkmen language tooling
+- Open-source infrastructure for Turkmenistan
+- Small, focused projects that solve real problems
 
 ## Principles
 
-**Understand the code.**  
-Every contribution should be understood by the person submitting it.
+**Understand what you ship.**  
+Code should be understood, reviewed, and maintainable by the people responsible for it.
 
-**Keep it simple.**  
-Prefer clear solutions over unnecessary abstractions.
+**Keep things simple.**  
+Prefer small APIs, clear implementations, and minimal dependencies.
+
+**Build useful software.**  
+Projects should solve real problems rather than add unnecessary complexity.
 
 **Own your work.**  
-Contributors should be able to explain, maintain, and improve what they submit.
+Contributors should be able to explain, maintain, test, and improve their contributions.
 
 **Build in the open.**  
-Development, discussions, issues, and decisions happen publicly whenever possible.
+Code, discussions, issues, and technical decisions should be public whenever possible.
 
 ## Contributing
 
-Human contributions are welcome.
+Contributions are welcome.
 
-Bug reports, feature proposals, documentation improvements, tests, and pull requests are encouraged.
+You can help by reporting bugs, proposing features, improving documentation, writing tests, or submitting pull requests.
 
-Please don't submit AI-generated code or content.
+Please submit work that you understand and can stand behind. AI-generated code or project content is not accepted.
 
 ---
 
-**Written by people. Built with Go. Open to everyone.**
+**Written by people. Built with Go. From Turkmenistan. 🇹🇲**
