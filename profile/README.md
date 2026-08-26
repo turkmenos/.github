@@ -51,4 +51,4 @@ Please submit work that you understand and can stand behind. AI-generated code o
 
 ---
 
-**Written by people. Built with Go. From Turkmenistan. 🇹🇲**
+**Written by people.**
