@@ -1,3 +1,5 @@
+![Turkmen OSS community in a Karakum landscape](assets/turkmen-oss-banner.png)
+
 # Turkmen OSS
 
 **Open-source software for the Turkmen ecosystem.**
