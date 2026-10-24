@@ -1,4 +1,4 @@
-![Turkmen OSS: open-source software for the Turkmen ecosystem. A code window in front of a network of connected nodes.](assets/turkmen-oss-banner.svg)
+![Turkmen OSS: simple APIs, minimal dependencies, useful software. A code window in front of a network of connected nodes.](assets/turkmen-oss-banner.svg)
 
 # Turkmen OSS
 
