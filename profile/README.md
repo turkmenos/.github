@@ -1,11 +1,11 @@
-![Turkmen OSS: open-source software for the Turkmen ecosystem. A code window and a sun over Karakum dunes, above a Turkmen carpet göl border.](assets/turkmen-oss-banner.svg)
+![Turkmen OSS: simple APIs, minimal dependencies, useful software. A code window in front of a network of connected nodes.](assets/turkmen-oss-banner.svg)
 
 # Turkmen OSS
 
-**Open-source software for the Turkmen ecosystem.**
+**Open-source software, built in the open.**
 
-We build libraries, developer tools, open data, language tooling, and infrastructure for Turkmen communities worldwide.
+We build libraries, developer tools, open data, language tooling, and infrastructure for developers everywhere.
 
 Simple APIs. Minimal dependencies. Useful software. Built and maintained by people.
 
-**Open source for Turkmen developers, language, data, and technology.**
+**Open source for developers, language, data, and technology.**

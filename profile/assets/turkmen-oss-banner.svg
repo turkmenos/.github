@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-labelledby="t d">
 <title id="t">Turkmen OSS</title>
-<desc id="d">Open-source software for the Turkmen ecosystem. A code window and a sun over Karakum dunes, above a Turkmen carpet göl border.</desc>
+<desc id="d">Simple APIs. Minimal dependencies. Useful software. A code window in front of a network of connected nodes.</desc>
 <style>
 .title{font:800 92px/1 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;fill:#f6f0df;letter-spacing:-2px}
 .tag{font:500 27px/1 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;fill:#c9e0d2}
@@ -11,46 +11,44 @@
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#0e3a2c"/><stop offset="1" stop-color="#15523d"/>
 </linearGradient>
-<radialGradient id="glow"><stop offset="0" stop-color="#f1d58c" stop-opacity=".35"/><stop offset="1" stop-color="#f1d58c" stop-opacity="0"/></radialGradient>
 <clipPath id="card"><rect width="1280" height="420" rx="22"/></clipPath>
-<pattern id="gol" width="88" height="44" patternUnits="userSpaceOnUse" x="0" y="374">
-<rect width="88" height="44" fill="#8c2a2c"/>
-<path d="M30 8h28l14 10v8l-14 10H30L16 26v-8z" fill="none" stroke="#f1e2bf" stroke-width="2"/>
-<path d="M44 12l14 10-14 10-14-10z" fill="#e2bd62"/>
-<path d="M44 12v20M30 22h28" stroke="#8c2a2c" stroke-width="2"/>
-<path d="M0 16l6 6-6 6-6-6zM88 16l6 6-6 6-6-6z" fill="#f1e2bf"/>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+<circle cx="12" cy="12" r="1.2" fill="#f6f0df" fill-opacity=".14"/>
 </pattern>
+<radialGradient id="fade"><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<mask id="fadeMask"><rect x="640" y="-40" width="680" height="500" fill="url(#fade)"/></mask>
 </defs>
 <g clip-path="url(#card)">
 <rect width="1280" height="420" fill="url(#bg)"/>
-<circle cx="1110" cy="128" r="130" fill="url(#glow)"/>
-<circle cx="1110" cy="128" r="54" fill="#f1d58c"/>
-<path d="M520 372C660 330 800 250 930 262S1150 210 1280 228V372Z" fill="#1f6a50"/>
-<path d="M380 372C600 356 780 296 920 312S1140 276 1280 290V372Z" fill="#b8893d"/>
-<path d="M0 368C300 360 620 352 820 338S1120 318 1280 330V372H0Z" fill="#e2bd62"/>
-<g transform="translate(712 70)">
-<rect width="330" height="196" rx="14" fill="#0a2a20" stroke="#e2bd62" stroke-opacity=".5"/>
-<path d="M0 14a14 14 0 0 1 14-14h302a14 14 0 0 1 14 14v22H0Z" fill="#ffffff0f"/>
-<circle cx="20" cy="18" r="5" fill="#8c2a2c"/><circle cx="38" cy="18" r="5" fill="#e2bd62"/><circle cx="56" cy="18" r="5" fill="#6fa58b"/>
-<path d="M22 58l10 8-10 8" fill="none" stroke="#e2bd62" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="640" y="-40" width="680" height="500" fill="url(#dots)" mask="url(#fadeMask)"/>
+<path d="M700 330L812 296L1084 316L1176 248L1150 120L1078 54L1200 62M1176 248L1236 344M1084 316L1000 384M700 330L660 236" fill="none" stroke="#e2bd62" stroke-opacity=".45" stroke-width="2"/>
+<g fill="#0e3a2c" stroke="#e2bd62" stroke-width="2.5">
+<circle cx="700" cy="330" r="9"/><circle cx="812" cy="296" r="6"/><circle cx="1084" cy="316" r="9"/>
+<circle cx="1176" cy="248" r="12" fill="#e2bd62"/><circle cx="1150" cy="120" r="7"/><circle cx="1078" cy="54" r="6"/>
+<circle cx="1200" cy="62" r="9" fill="#e2bd62"/><circle cx="1236" cy="344" r="7"/><circle cx="660" cy="236" r="6"/>
+</g>
+<g transform="translate(736 92)">
+<rect width="360" height="204" rx="14" fill="#0a2a20" stroke="#e2bd62" stroke-opacity=".5"/>
+<path d="M0 14a14 14 0 0 1 14-14h332a14 14 0 0 1 14 14v22H0Z" fill="#ffffff0f"/>
+<circle cx="20" cy="18" r="5" fill="#c4574f"/><circle cx="38" cy="18" r="5" fill="#e2bd62"/><circle cx="56" cy="18" r="5" fill="#6fa58b"/>
+<path d="M22 60l10 8-10 8" fill="none" stroke="#e2bd62" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <g fill="#f6f0df">
-<rect x="44" y="61" width="150" height="10" rx="5"/>
-<rect x="44" y="89" width="64" height="10" rx="5" fill="#e2bd62"/><rect x="116" y="89" width="110" height="10" rx="5" fill-opacity=".6"/>
-<rect x="64" y="113" width="180" height="10" rx="5" fill="#6fa58b"/>
-<rect x="64" y="137" width="96" height="10" rx="5" fill-opacity=".6"/><rect x="168" y="137" width="72" height="10" rx="5" fill="#e2bd62"/>
-<rect x="44" y="161" width="40" height="10" rx="5" fill-opacity=".6"/>
-<rect x="92" y="159" width="10" height="14" fill="#e2bd62"/>
+<rect x="44" y="63" width="160" height="10" rx="5"/>
+<rect x="44" y="91" width="64" height="10" rx="5" fill="#e2bd62"/><rect x="116" y="91" width="120" height="10" rx="5" fill-opacity=".6"/>
+<rect x="64" y="115" width="196" height="10" rx="5" fill="#6fa58b"/>
+<rect x="64" y="139" width="104" height="10" rx="5" fill-opacity=".6"/><rect x="176" y="139" width="80" height="10" rx="5" fill="#e2bd62"/>
+<rect x="44" y="167" width="40" height="10" rx="5" fill-opacity=".6"/>
+<rect x="92" y="165" width="10" height="14" fill="#e2bd62"/>
 </g>
 </g>
-<rect y="370" width="1280" height="4" fill="#e2bd62"/>
-<rect y="374" width="1280" height="46" fill="url(#gol)"/>
-<text x="68" y="160" class="title">Turkmen OSS</text>
-<text x="72" y="208" class="tag">Open-source software for the</text>
-<text x="72" y="242" class="tag">Turkmen ecosystem</text>
-<rect x="72" y="266" width="107" height="32" rx="16" class="chip"/><text x="125.5" y="287.5" class="mono">libraries</text>
-<rect x="189" y="266" width="107" height="32" rx="16" class="chip"/><text x="242.5" y="287.5" class="mono">dev tools</text>
-<rect x="306" y="266" width="107" height="32" rx="16" class="chip"/><text x="359.5" y="287.5" class="mono">open data</text>
-<rect x="423" y="266" width="98" height="32" rx="16" class="chip"/><text x="472" y="287.5" class="mono">language</text>
-<rect x="531" y="266" width="152" height="32" rx="16" class="chip"/><text x="607" y="287.5" class="mono">infrastructure</text>
+<text x="68" y="168" class="title">Turkmen OSS</text>
+<text x="72" y="216" class="tag">Simple APIs. Minimal dependencies.</text>
+<text x="72" y="250" class="tag">Useful software.</text>
+<rect x="72" y="278" width="107" height="32" rx="16" class="chip"/><text x="125.5" y="299.5" class="mono">libraries</text>
+<rect x="189" y="278" width="107" height="32" rx="16" class="chip"/><text x="242.5" y="299.5" class="mono">dev tools</text>
+<rect x="306" y="278" width="107" height="32" rx="16" class="chip"/><text x="359.5" y="299.5" class="mono">open data</text>
+<rect x="423" y="278" width="98" height="32" rx="16" class="chip"/><text x="472" y="299.5" class="mono">language</text>
+<rect x="531" y="278" width="152" height="32" rx="16" class="chip"/><text x="607" y="299.5" class="mono">infrastructure</text>
+<rect y="414" width="1280" height="6" fill="#e2bd62"/>
 </g>
 </svg>
