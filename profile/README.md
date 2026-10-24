@@ -1,4 +1,4 @@
-![Turkmen OSS: open-source software for the Turkmen ecosystem. A code window and a sun over Karakum dunes, above a Turkmen carpet göl border.](assets/turkmen-oss-banner.svg)
+![Turkmen OSS: open-source software for the Turkmen ecosystem. A code window in front of a network of connected nodes.](assets/turkmen-oss-banner.svg)
 
 # Turkmen OSS
 
