@@ -1,4 +1,4 @@
-![Turkmen OSS: open-source software, built in the open. A code window in front of a network of connected nodes.](assets/turkmen-oss-banner.svg)
+![Turkmen OSS: open-source software, built in the open. A code window in front of a network of connected nodes.](assets/oss-banner.svg)
 
 # Turkmen OSS
 
